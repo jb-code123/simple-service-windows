@@ -1,0 +1,15 @@
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Visual Studio 2013\Projects\InitNonMTF\WindowsService1\WindowsService1\bin\Debug\CreazyOrderLeon.exe.config
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\bin\Debug\CreazyOrderLeon.exe.config
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\bin\Debug\CreazyOrderLeon.exe
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\bin\Debug\CreazyOrderLeon.pdb
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\obj\Debug\CreazyOrderLeon.exe
+C:\Visual Studio 2013\Projects\CreazyOrderLeon\WindowsService1\obj\Debug\CreazyOrderLeon.pdb
+C:\Visual Studio 2013\Projects\CrazyOrderLeon\WindowsService1\bin\Debug\CreazyOrderLeon.exe.config
+C:\Visual Studio 2013\Projects\CrazyOrderLeon\WindowsService1\obj\Debug\CreazyOrderLeon.exe
+C:\Visual Studio 2013\Projects\CrazyOrderLeon\WindowsService1\obj\Debug\CreazyOrderLeon.pdb
