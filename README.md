@@ -2,7 +2,7 @@
 
 simple service windows en c# .net
 
-avec connexion mysql + log4net + client socket io vers nodejs
+avec connexion mysql + log4net + client (websocket) socket io vers nodejs
 
 copier le dossier release à l'endroit de votre choix et faite :
 InstallUtil.exe SimpleServiceWindows.exe
